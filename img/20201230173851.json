@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "5fd092e02495876fff315ae1"
+  },
+  "apiUrl": "",
+  "bc": "1599791800945",
+  "code": "mdm_oa_record",
+  "createdBy": "admin",
+  "creationDate": {
+    "$date": "2020-12-09T09:03:28.250Z"
+  },
+  "dbSourceCode": "1599791860369",
+  "dbSourceName": "ZTMDM_mysql_database",
+  "hasShared": false,
+  "lastUpdateDate": {
+    "$date": "2020-12-09T09:03:28.250Z"
+  },
+  "lastUpdatedBy": "admin",
+  "master": false,
+  "modelType": "database",
+  "name": "推送待办记录表",
+  "objectVersionNumber": 1,
+  "params": "",
+  "status": "ENABLE",
+  "tableName": "mdm_oa_record"
+}]
